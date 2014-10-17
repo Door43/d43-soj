@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[soj:home|Door43 (soj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-soj|d43-soj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-soj/archive/master.zip|d43-soj.zip]]
+
+**Recent Changes**
+{{changes>ns = soj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/soj|Ethnologue data]]
+
